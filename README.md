@@ -49,12 +49,12 @@ It includes Jupyter notebooks, project tasks, and reports that cover topics such
 
 - Emphasis on comparing different algorithms and validating models
 ## Configuration
-Setting	                            Description
-Python environment	                Ensure correct Python version (e.g. 3.8+) and virtual environment activation
-Dependencies	                      Required libraries (e.g. scikit-learn, numpy, pandas, matplotlib, seaborn)
-Notebook paths	                    Notebooks expect certain directory structure; keep relative paths consistent for data/assets if used
-Dataset / data sources	            If using external or custom datasets, ensure proper file placement or update paths inside notebooks
-Model/Hyperparameter settings	      Notebooks may have tunable settings for model type, hyperparameters, feature sets — adjust as needed for experiments
+- Setting	            :                Description
+- Python environment	   :             Ensure correct Python version (e.g. 3.8+) and virtual environment activation
+- Dependencies	          :            Required libraries (e.g. scikit-learn, numpy, pandas, matplotlib, seaborn)
+- Notebook paths	       :             Notebooks expect certain directory structure; keep relative paths consistent for data/assets if used
+- Dataset / data sources	 :           If using external or custom datasets, ensure proper file placement or update paths inside notebooks
+- Model/Hyperparameter settings	   :   Notebooks may have tunable settings for model type, hyperparameters, feature sets — adjust as needed for experiments
 
 ## License
 
